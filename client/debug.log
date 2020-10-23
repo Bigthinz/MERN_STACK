@@ -1,1 +1,4 @@
 [1021/104639.495:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1022/115429.425:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1022/120612.471:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Bigthinz\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\b5b033ec-ef2e-4113-ac92-a7c2415598d8: The system cannot find the path specified. (0x3)
+[1023/220801.189:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
